@@ -1,0 +1,23 @@
+{
+  "name": "gif-search",
+  "version": "1.0.0",
+  "description": "A small application to search for gifs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnminerIv/gif-search-node.git"
+  },
+  "keywords": [
+    "gif",
+    "gifs"
+  ],
+  "author": "John Miner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JohnminerIv/gif-search-node/issues"
+  },
+  "homepage": "https://github.com/JohnminerIv/gif-search-node#readme"
+}
